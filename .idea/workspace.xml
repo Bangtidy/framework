@@ -88,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf/datasource.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="253">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+            <state relative-caret-position="184">
+              <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
               <folding>
                 <element signature="e#775#791#0" expanded="true" />
                 <element signature="e#843#856#0" expanded="true" />
@@ -158,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="1066" />
     <option name="y" value="1" />
     <option name="width" value="841" />
@@ -302,7 +302,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612238826387</updated>
       <workItem from="1612238830501" duration="8191000" />
-      <workItem from="1612272741558" duration="2397000" />
+      <workItem from="1612272741558" duration="3280000" />
     </task>
     <task id="LOCAL-00001" summary="spring">
       <created>1612239250451</created>
@@ -325,15 +325,21 @@
       <option name="project" value="LOCAL" />
       <updated>1612274743967</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="spring加载外部配置文件">
+      <created>1612275203218</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1612275203218</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10588000" />
+    <option name="totallyTimeSpent" value="11471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.069296375" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -344,7 +350,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.54989153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.28958786" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -352,7 +358,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.54989153" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.28958786" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -373,7 +379,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spring" />
     <MESSAGE value="springday01" />
-    <option name="LAST_COMMIT_MESSAGE" value="springday01" />
+    <MESSAGE value="spring加载外部配置文件" />
+    <option name="LAST_COMMIT_MESSAGE" value="spring加载外部配置文件" />
   </component>
   <component name="editorHistoryManager">
     <entry file="uml://JIGSAW/spring.beans">
@@ -560,8 +567,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/datasource.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="184">
+          <caret line="8" column="64" lean-forward="true" selection-start-line="8" selection-start-column="64" selection-end-line="8" selection-end-column="64" />
           <folding>
             <element signature="e#775#791#0" expanded="true" />
             <element signature="e#843#856#0" expanded="true" />
