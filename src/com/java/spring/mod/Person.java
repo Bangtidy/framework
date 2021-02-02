@@ -1,5 +1,6 @@
 package com.java.spring.mod;
 
+
 public class Person {
     //建议使用Integer（封装类型，默认为null）,不使用int（基本数据类型，默认为0）
     private Integer id;
