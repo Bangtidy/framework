@@ -9,6 +9,7 @@
         <property name="location" value="db.properties"></property>
     </bean>-->
 
+    <!--与上面方法效果一样-->
     <context:property-placeholder location="db.properties"></context:property-placeholder>
 
 

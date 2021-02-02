@@ -1,18 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cde82dfd-c01d-42fc-97da-89126a6d60ff" name="Default Changelist" comment="spring">
-      <change afterPath="$PROJECT_DIR$/conf/beans-di.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/IOC/AfterHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/IOC/datasource/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/java/spring/di/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SSM.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SSM.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/SSM/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/SSM/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/spring/mod/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/spring/mod/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/java/spring/mod/TestBySpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/spring/mod/TestBySpring.java" afterDir="false" />
-    </list>
+    <list default="true" id="cde82dfd-c01d-42fc-97da-89126a6d60ff" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -99,8 +88,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/conf/datasource.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+            <state relative-caret-position="253">
+              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
               <folding>
                 <element signature="e#775#791#0" expanded="true" />
                 <element signature="e#843#856#0" expanded="true" />
@@ -127,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/conf/db.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="115">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
             </state>
           </provider>
         </entry>
@@ -136,7 +125,7 @@
         <entry file="file://$PROJECT_DIR$/conf/applicationContext.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="184">
-              <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+              <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
             </state>
           </provider>
         </entry>
@@ -169,7 +158,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="1066" />
     <option name="y" value="1" />
     <option name="width" value="841" />
@@ -313,7 +302,7 @@
       <option name="presentableId" value="Default" />
       <updated>1612238826387</updated>
       <workItem from="1612238830501" duration="8191000" />
-      <workItem from="1612272741558" duration="1912000" />
+      <workItem from="1612272741558" duration="2397000" />
     </task>
     <task id="LOCAL-00001" summary="spring">
       <created>1612239250451</created>
@@ -329,11 +318,18 @@
       <option name="project" value="LOCAL" />
       <updated>1612239553842</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="springday01">
+      <created>1612274743967</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1612274743967</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="10103000" />
+    <option name="totallyTimeSpent" value="10588000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -348,7 +344,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49946696" visible="true" weight="0.54989153" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4989339" visible="true" weight="0.54989153" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -356,7 +352,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
       <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.3264642" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="10" sideWeight="0.5010661" side_tool="true" visible="true" weight="0.54989153" />
       <window_info anchor="bottom" id="Messages" order="11" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Version Control" order="13" />
@@ -376,7 +372,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="spring" />
-    <option name="LAST_COMMIT_MESSAGE" value="spring" />
+    <MESSAGE value="springday01" />
+    <option name="LAST_COMMIT_MESSAGE" value="springday01" />
   </component>
   <component name="editorHistoryManager">
     <entry file="uml://JIGSAW/spring.beans">
@@ -540,7 +537,7 @@
     <entry file="file://$PROJECT_DIR$/conf/applicationContext.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="184">
-          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -557,14 +554,14 @@
     <entry file="file://$PROJECT_DIR$/conf/db.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/conf/datasource.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="70" lean-forward="true" selection-start-line="7" selection-start-column="70" selection-end-line="7" selection-end-column="70" />
+        <state relative-caret-position="253">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
           <folding>
             <element signature="e#775#791#0" expanded="true" />
             <element signature="e#843#856#0" expanded="true" />
