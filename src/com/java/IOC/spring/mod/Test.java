@@ -1,4 +1,4 @@
-package com.java.spring.mod;
+package com.java.IOC.spring.mod;
 
 public class Test {
     public static void main(String[] args) {

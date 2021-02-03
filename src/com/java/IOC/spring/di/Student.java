@@ -1,4 +1,4 @@
-package com.java.spring.di;
+package com.java.IOC.spring.di;
 
 public class Student {
     private Integer id;

@@ -5,14 +5,14 @@
        xmlns:p="http://www.springframework.org/schema/p"
        xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
 
-        <bean id="s1" class="com.java.spring.di.Student" >
+        <bean id="s1" class="com.java.IOC.spring.di.Student" >
             <property name="id" value="1010"></property>
             <property name="name" value="zhangsan"></property>
             <property name="age" value="18"></property>
             <property name="sex" value="男"></property>
         </bean>
 
-        <bean id="s4" class="com.java.spring.di.Student" p:id="10033" p:name="bang" p:sex="nan" p:age="123"></bean>
+        <bean id="s4" class="com.java.IOC.spring.di.Student" p:id="10033" p:name="bang" p:sex="nan" p:age="123"></bean>
 
         <util:list id="students">
 
