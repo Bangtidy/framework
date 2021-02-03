@@ -10,7 +10,7 @@ import javax.naming.Name;
 @Controller(value = "aaa")
 public class UserController {
 
-    @Autowired
+    @Autowired//自动装配
     private UserService userService;
 
     public void addUser(){

@@ -11,7 +11,7 @@ public class UserServiceImpl implements UserService{
 
     @Autowired
     @Qualifier(value = "userDaoImpl")
-    private UserDao userDao ;
+    private UserDao userDao;
 
     public UserServiceImpl(){
         System.out.println("UserServiceImpl");
